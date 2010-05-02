@@ -1,0 +1,17 @@
+[user]
+	name = Jeff Powell
+	email = jpowell@gotmn.com
+[apply]
+	whitespace = nowarn
+[alias]
+	co = checkout
+[core]
+  editor = vi
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[git-tmbundle]
+	gitx-path = /usr/local/bin/gitx 
+[merge]
+	tool = opendiff
